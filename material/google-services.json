@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696157069765",
+    "project_id": "notif-daily-casier",
+    "storage_bucket": "notif-daily-casier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696157069765:android:00199b1f66222147f9abac",
+        "android_client_info": {
+          "package_name": "com.krestech.codegenv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696157069765-rul8e1he06kjmvncah2efdgph7rmejf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7AqndFEoBXFDS7t-xqItUveZ9uSNQYOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696157069765-rul8e1he06kjmvncah2efdgph7rmejf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
